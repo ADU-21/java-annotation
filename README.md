@@ -1,5 +1,5 @@
 # Java annotation
-This is java annotation practice refer to <http://www.cnblogs.com/ITtangtang/p/3974531.html>
+This is java annotation practice.
 
 # How to use
 
@@ -12,3 +12,7 @@ This is java annotation practice refer to <http://www.cnblogs.com/ITtangtang/p/3
 ```bash
 ./gradlew checkstyleMain
 ```
+
+# Reference:
+ 
+<http://www.cnblogs.com/ITtangtang/p/3974531.html>
