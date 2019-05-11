@@ -14,11 +14,6 @@ public class Apple {
     @FruitColor(fruitColor = Color.RED)
     private String fruitColor;
 
-    public String getAppleName() {
-        return appleName;
-    }
-
-    public void setAppleName(String appleName) {
-        this.appleName = appleName;
-    }
+    @Vendor(id = 1, name = "Vendor name", address = "Vendor address")
+    private String vendor;
 }
