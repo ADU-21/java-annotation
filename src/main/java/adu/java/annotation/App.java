@@ -6,6 +6,6 @@ package adu.java.annotation;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("hello, world");
+        FruitInfoUtil.getFruitInfo(Apple.class);
     }
 }
